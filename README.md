@@ -8,7 +8,7 @@ The Sysinternals web site was created in 1996 by [Mark Russinovich](https://blog
 
 ## How do I install these manifests?
 
-To add this bucket, run `scoop bucket add sysinternals https://github.com/niheaven/scoop-sysinternals`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add sysinternals https://github.com/cjbrigato/scoop-sysinternals`. To install, do `scoop install <manifest>`.
 
 ## How do I contribute new manifests
 
